@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hidayet Arasan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">who loves coding</h3>
 
 <p align="left"> <a href="https://twitter.com/hdytarsn" target="blank"><img src="https://img.shields.io/twitter/follow/hdytarsn?logo=twitter&style=for-the-badge" alt="hdytarsn" /></a> </p>
 
